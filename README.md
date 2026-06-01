@@ -1,4 +1,5 @@
-https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDF4MXJ3cmV6eGJ2Z2loMGNzNzIyOHUxbTdyd2htaXQyeXZjNndyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/32mC2kXYWCsg0/giphy.gif
+![Uploading Sunny shell-toned style ideas with simple charm and useful ideas on a budget to brighten your feed 🌴 - Pin-189221621826654463.gif…]()
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dynam1c5131) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nandannnn_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/abhinandan-dwivedi-4b7445301) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/dwivediabhinandan2006) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dwivediabhinandan2006@gmail.com) 
 
