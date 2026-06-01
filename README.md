@@ -1,3 +1,5 @@
+<img width="1920" height="1076" alt="Sunny shell-toned style ideas with simple charm and useful ideas on a budget to brighten your feed 🌴 - Pin-189221621826654463" src="https://github.com/user-attachments/assets/ae263568-3bf8-4a2f-9a97-d9a89c95ec87" />
+
 # 💫 About Me:
 Building reliable software, exploring Artificial Intelligence & Machine learning, and sharpening problem-solving skills.<br>Driven by curiosity, innovation, and a commitment to excellence.<br>
 
@@ -24,4 +26,4 @@ Building reliable software, exploring Artificial Intelligence & Machine learning
 ---
 [![](https://komarev.com/ghpvc/?username=Abhinandan2006&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><img width="1920" height="1076" alt="Sunny shell-toned style ideas with simple charm and useful ideas on a budget to brighten your feed 🌴 - Pin-189221621826654463" src="https://github.com/user-attachments/assets/df610277-05e9-4b10-85b3-a4eaeec83fcb" />
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
