@@ -6,7 +6,8 @@
   Hi, I'm Abhinandan
 </h1>
 
-Building reliable software, exploring Artificial Intelligence & Machine learning, and sharpening problem-solving skills.<br>Driven by curiosity, innovation, and a commitment to excellence.<br>
+<h3 align="center> Building reliable software, exploring Artificial Intelligence & Machine learning, and sharpening problem-solving skills.<br>Driven by curiosity, innovation, and a commitment to excellence.<br>
+  </h3>
 
 <h2 align="center">
   Social
