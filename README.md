@@ -3,9 +3,28 @@
 # About Me:
 Building reliable software, exploring Artificial Intelligence & Machine learning, and sharpening problem-solving skills.<br>Driven by curiosity, innovation, and a commitment to excellence.<br>
 
+## Social
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <a href="https://linkedin.com/in/abhinandan-dwivedi">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn"><br>LinkedIn
+      </a>
+    </td>
+    <td align="center" width="90">
+      <a href="mailto:dwivediabhinandan2006@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Gmail"><br>Email
+      </a>
+    </td>
+    <td align="center" width="90">
+      <a href="https://github.com/Abhinandan2006">
+        <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"><br>GitHub
+      </a>
+    </td>
+  </tr>
+</table>
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinandan-dwivedi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dwivediabhinandan2006@gmail.com) 
+## Tech Stack:
 <table align="center">
   <tr>
     <td align="center" width="90">
@@ -80,6 +99,7 @@ Building reliable software, exploring Artificial Intelligence & Machine learning
     </td>
   </tr>
 </table>
+
 # GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Abhinandan2006&theme=bear&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Abhinandan2006&theme=bear&hide_border=false)<br/>
