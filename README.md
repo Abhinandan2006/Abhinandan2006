@@ -1,11 +1,17 @@
-<img width="735" height="147" alt="Ananya01Agrawal - Overview" src="https://github.com/user-attachments/assets/98ab3e6e-0b89-4e66-b27e-2521faff25ed" />
+<div align="center">
+  <img width="735" height="147" alt="Ananya01Agrawal - Overview" src="https://github.com/user-attachments/assets/98ab3e6e-0b89-4e66-b27e-2521faff25ed" />
+</div>
 
 <h1 align="center">
   Hi, I'm Abhinandan
 </h1>
+
 Building reliable software, exploring Artificial Intelligence & Machine learning, and sharpening problem-solving skills.<br>Driven by curiosity, innovation, and a commitment to excellence.<br>
 
-## Social
+<h2 align="center">
+  Social
+</h2>
+
 <table align="center">
   <tr>
     <td align="center" width="90">
@@ -26,7 +32,10 @@ Building reliable software, exploring Artificial Intelligence & Machine learning
   </tr>
 </table>
 
-## Tech Stack
+<h2 align="center">
+  Tech Stack
+</h2>
+
 <table align="center">
   <tr>
     <td align="center" width="90">
@@ -102,7 +111,10 @@ Building reliable software, exploring Artificial Intelligence & Machine learning
   </tr>
 </table>
 
-## GitHub Stats
+<h2 align="center">
+  GitHub Stats
+</h2>
+
 <table align="center">
   <tr>
     <td>
@@ -119,5 +131,8 @@ Building reliable software, exploring Artificial Intelligence & Machine learning
   </tr>
 </table>
 
-## GitHub Trophies
+<h2 align="center">
+  GitHub Trophies
+</h2>
+
 ![](https://github-profile-trophy.vercel.app/?username=Abhinandan2006&theme=radical&no-frame=false&no-bg=true&margin-w=4)
