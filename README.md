@@ -1,52 +1,100 @@
-# Hi, I'm Abhinandan 👋
+<img width="1920" height="1076" alt="Sunny shell-toned style ideas with simple charm and useful ideas on a budget to brighten your feed 🌴 - Pin-189221621826654463" src="https://github.com/user-attachments/assets/ae263568-3bf8-4a2f-9a97-d9a89c95ec87" />
 
-```
-role: AI/ML Engineer (in progress)
+# About Me:
+Building reliable software, exploring Artificial Intelligence & Machine learning, and sharpening problem-solving skills.<br>Driven by curiosity, innovation, and a commitment to excellence.<br>
 
-about:
-  university:   AKTU-affiliated Institution (B.Tech CSE, 2027)
-  location:     Kanpur, India
-  focus:        AI/ML Engineering · MLOps · Full Stack Deployment
-  currently:    Amazon ML Summer School 2026 · McKinsey Forward Alumnus
 
-competitive_programming:
-  LeetCode:     700+ problems solved · ~1770 rating
-  strengths:    DSA · Dynamic Programming · Graphs
+## Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinandan-dwivedi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dwivediabhinandan2006@gmail.com) 
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55"><br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java"><br>Java
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55"><br>JavaScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="C/C++"><br>C/C++
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=flask" width="45" height="45" alt="Flask"><br>Flask
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI"><br>FastAPI
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL"><br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB"><br>MongoDB
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48"><br>AWS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55"><br>Docker
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git"><br>Git
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"><br>GitHub
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=githubactions" width="45" height="45" alt="CI/CD"><br>CI/CD
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="55" height="55"><br>Kubernetes
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="TensorFlow"><br>TensorFlow
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=sklearn" width="45" height="45" alt="Scikit-learn"><br>Scikit-learn
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux"><br>Linux
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code"><br>VS Code
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=idea" width="45" height="45" alt="IntelliJ"><br>IntelliJ
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman"><br>Postman
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" height="35"><br>MLflow
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC" height="35"><br>DVC
+    </td>
+  </tr>
+</table>
+# GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Abhinandan2006&theme=bear&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Abhinandan2006&theme=bear&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Abhinandan2006&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-interests:
-  - Building AI-powered applications
-  - MLOps pipelines and deployment
-  - Chess (player + chess bot builder)
-```
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Abhinandan2006&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+### Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Abhinandan2006&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Abhinandan2006&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠 Tech Stack
-
-| [![Python](https://techstack-generator.vercel.app/python-icon.svg)](https://www.python.org)   Python | [![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)   PyTorch | [![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://tensorflow.org)   TensorFlow | [![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)   Docker | [![AWS](https://techstack-generator.vercel.app/aws-icon.svg)](https://aws.amazon.com)   AWS | [![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)   FastAPI | [![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com)   Flask | [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)   Git |
-|---|---|---|---|---|---|---|---|
-| [![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org)   C++ | [![JavaScript](https://techstack-generator.vercel.app/js-icon.svg)](https://javascript.com)   JavaScript | [![React](https://techstack-generator.vercel.app/react-icon.svg)](https://reactjs.org)   React | [![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com)   MySQL | [![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org)   Linux | [![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)   CI/CD | [![MLflow](https://skillicons.dev/icons?i=mlflow)](https://mlflow.org)   MLflow | [![Streamlit](https://skillicons.dev/icons?i=streamlit)](https://streamlit.io)   Streamlit |
-
----
-
-## 📌 Featured Projects
-
-**[YouTube Comment Analysis](https://github.com/Abhinandan2006)**
-> NLP pipeline for sentiment analysis on YouTube comments · Docker · AWS EC2 · CI/CD · MLflow
-
-**[Chess Bot](https://github.com/Abhinandan2006)**
-> Chess-playing bot using PyTorch neural network + Minimax search · Flask web interface · PGN saving
-
-**[Gurgaon Real Estate Insights](https://github.com/Abhinandan2006/Captone_project)**
-> ML-powered price predictor and apartment recommender for Gurgaon property market · Streamlit
-
----
-
-## 📊 GitHub Stats
-
-![Abhinandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhinandan2006&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinandan2006&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-*B.Tech CSE · AKTU · 2027 · Building toward AI/ML Engineering*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
