@@ -100,21 +100,22 @@ Building reliable software, exploring Artificial Intelligence & Machine learning
   </tr>
 </table>
 
-# GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Abhinandan2006&theme=bear&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Abhinandan2006&theme=bear&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Abhinandan2006&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## GitHub Stats
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.shion.dev/api?username=Abhinandan2006&theme=bear&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=Abhinandan2006&theme=bear&hide_border=false" alt="GitHub Streak">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abhinandan2006&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+    </td>
+  </tr>
+</table>
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abhinandan2006&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Abhinandan2006&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=Abhinandan2006&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
