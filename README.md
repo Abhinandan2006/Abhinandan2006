@@ -1,6 +1,8 @@
-<img width="1920" height="1076" alt="Sunny shell-toned style ideas with simple charm and useful ideas on a budget to brighten your feed 🌴 - Pin-189221621826654463" src="https://github.com/user-attachments/assets/ae263568-3bf8-4a2f-9a97-d9a89c95ec87" 
+<img width="735" height="147" alt="Ananya01Agrawal - Overview" src="https://github.com/user-attachments/assets/98ab3e6e-0b89-4e66-b27e-2521faff25ed" />
 
-# Hi, I'm Abhinandan
+<h1 align="center">
+  Hi, I'm Abhinandan
+</h1>
 Building reliable software, exploring Artificial Intelligence & Machine learning, and sharpening problem-solving skills.<br>Driven by curiosity, innovation, and a commitment to excellence.<br>
 
 ## Social
