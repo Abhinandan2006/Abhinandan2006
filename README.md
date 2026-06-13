@@ -27,11 +27,6 @@
         <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Gmail"><br>Email
       </a>
     </td>
-    <td align="center" width="90">
-      <a href="https://github.com/Abhinandan2006">
-        <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"><br>GitHub
-      </a>
-    </td>
   </tr>
 </table>
 
