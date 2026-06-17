@@ -108,29 +108,3 @@
     </td>
   </tr>
 </table>
-
-<h2 align="center">
-  GitHub Stats
-</h2>
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.shion.dev/api?username=Abhinandan2006&theme=bear&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=Abhinandan2006&theme=bear&hide_border=false" alt="GitHub Streak">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abhinandan2006&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-    </td>
-  </tr>
-</table>
-
-<h2 align="center">
-  GitHub Trophies
-</h2>
-
-![](https://github-profile-trophy.vercel.app/?username=Abhinandan2006&theme=radical&no-frame=false&no-bg=true&margin-w=4)
