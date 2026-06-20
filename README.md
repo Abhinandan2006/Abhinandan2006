@@ -110,7 +110,7 @@
 </table>
 
 <h2 align="center">
-  GitHub stats
+  GitHub Stats
 </h2>
  
 <p align="center">
